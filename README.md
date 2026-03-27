@@ -35,7 +35,7 @@ My work sits at the intersection of **computer vision**, **multimodal learning**
 
 Personal experiments, small tools, and one-off builds:
 
-- 🍬 **[PeperNoten](https://gist.github.com/ameroyer#pepernoten)** -- A small script to auto-generate a "skimmed-through" Obsidian note in markdown from an arxiv paper.
+- 🍬 **[PeperNoten](https://gist.github.com/ameroyer/430a087f857f5d996445e6e9ba21ca00)** -- A small script to auto-generate a "skimmed-through" Obsidian note in markdown from an arxiv paper.
 - 🎄 **[Advent of Code](https://github.com/users/ameroyer/projects/2?pane=issue&itemId=46335310)** -- A list of my past Advent of Code participations
 - 🕵️ **[Codenames Solo](https://github.com/ameroyer/codenames_solo)** -- solo mode for the Codenames boardgame, powered by GPT and Streamlit
 - 🌊 **[Glow JAX](https://github.com/ameroyer/glow_jax)** -- clean JAX/Flax implementation of the Glow generative model
