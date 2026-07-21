@@ -21,7 +21,7 @@ My work sits at the intersection of **computer vision**, **multimodal learning**
 
 | Project Higlights | Venue | What it is about |
 |---------|-------|-------------|
-| [🏠 **CASA**](https://github.com/kyutai-labs/casa) -- *Cross-Attention Strikes Back* | arXiv, 2026 | Vision-language model with cross-attention for scalable streaming inference |
+| [🏠 **CASA**](https://github.com/kyutai-labs/casa) -- *Cross-Attention Strikes Back* | ECCV 2026 | Vision-language model with cross-attention for scalable streaming inference |
 | [**M👁️shiVis**](https://github.com/kyutai-labs/moshivis) -- *Kyutai with an "eye"* | CVPR 2026 | Adds visual understanding to the Moshi speech model with a data-efficient training pipeline |
 | [**MSViT**](https://arxiv.org/abs/2307.02321) -- *Mixed-Scale Tokenization* | ICCV NViT Workshop, 2023 | Dynamic token scaling for Vision Transformers based on image content |
 | [**Scalarization for Multi-Task Learning**](https://arxiv.org/abs/2310.08910) | NeurIPS, 2023 | Large-scale study of multi-task/domain training dynamics + population-based optimization |
