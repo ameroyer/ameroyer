@@ -2,7 +2,7 @@
 
 # Amélie Royer &nbsp;🥐
 
-**Deep Learning Research Engineer · Kyutai Labs · Paris, France**
+**Deep Learning Research Engineer · Kyutai [kjutaɪ] · Paris, France**
 
 *Building open-science AI at [kyutai.org](https://kyutai.org) 🇫🇷 · Previously Qualcomm AI Research 🇳🇱 ·  PhD from IST Austria (2020) 🇦🇹*
 
