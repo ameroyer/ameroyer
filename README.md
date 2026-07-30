@@ -33,6 +33,18 @@ My work sits at the intersection of **computer vision**, **multimodal learning**
 
 ## 📓 Side Projects & Snippets
 
+I enjoy building tools for automating my daily tasks; Only one constraint: They need to have cute names and/or aesthetics.
+
+- 🍬 **[PeperNoten](https://github.com/ameroyer/pepernoten)** -- A CLI tool to parse arXiv papers into Obsidian-ready markdown research notes. It slowly builds a knowledge base of research paper, clustered into topics, which you can then connect to as a MCP server.
+- 📖 **[Grimoire](https://github.com/ameroyer/grimoire)** -- A research logbook build by parsing and comparing MLFlow runs: Select the runs you want to compare, Claude writes a first analysis for you and you can then add your own comments and notes. Like PeperNotenm you can always access your grimoire via MCP to quickly check your previous conclusions and analyses.
+- 🍫 **[PRaline](https://github.com/ameroyer/PRaline)** -- Did your number of PRs to review dramatically increase with the advent of Claude ? PRaline helps you get these first PR review comments in, and builds a knowledge base of common issues, bugs, pain points with each merged PR
+- 📎 **[PocketPal](https://github.com/ameroyer/pocketpal)** -- Bring some fun to your remote working days by turning Claude into a cute voice assistant using on-device Speech-to-Text and Text-to-Speech.
+
+---
+
+
+## 📓 Side Projects & Snippets
+
 Personal experiments, small tools, and one-off builds:
 
 - 🍬 **[PeperNoten](https://gist.github.com/ameroyer/430a087f857f5d996445e6e9ba21ca00)** -- A small script to auto-generate a "skimmed-through" Obsidian note in markdown from an arxiv paper.
